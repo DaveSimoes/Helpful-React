@@ -8,7 +8,7 @@
 2.  [Start a New React Project](#start-a-new-react-project)
 3.  [Next js](#next-js)
 4.  [Next js App Router](#next-js-app-router)
-5.  [Veti](#veti)
+5.  [Vite](#vite)
 6.  [React Developer Tools](#react-developer-tools)
 7.  [JSX](#jsx)
 8.  [Functional Components](#functional-components)
@@ -66,7 +66,7 @@ Next.js is maintained by [Vercel](https://vercel.com/). You can [deploy a Next.j
 
 Next.js is maintained by [Vercel](https://vercel.com/). You can [deploy a Next.js](https://nextjs.org/docs/app/building-your-application/deploying) app to any Node.js or serverless hosting, or to your own server. Next.js also supports [static export](https://nextjs.org/docs/app/building-your-application/deploying/static-exports) which doesn’t require a server.
 
-## Veti
+## Vite
 
 Overview
 Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
@@ -226,7 +226,7 @@ export default StateExample;
 
 
 ## Lifecycle Methods
-Lifecycle methods são métodos especiais em componentes de classe que são invocados em diferentes fases do ciclo de vida de um componente. componentDidMount é um método de ciclo de vida comummente utilizado, executado depois de um componente ser renderizado no DOM.
+Lifecycle methods are special methods in class components that are invoked at different phases of a component's lifecycle componentDidMoun is a commonly used lifecycle method, executed after a component has been rendered in the DOM.
 ```
 import React, { Component } from 'react';
 
