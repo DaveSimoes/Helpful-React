@@ -2,7 +2,7 @@
 <h3><code> 2025</code>  Your newest learning tool
 </div> 
 
-# 📋 Index
+# 📋 Index.
   
 1.  [Introduction to React](#introduction-to-react)
 2.  [Start a New React Project](#start-a-new-react-project)
